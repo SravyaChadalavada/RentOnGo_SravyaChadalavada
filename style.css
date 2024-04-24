@@ -271,7 +271,7 @@ color:var(--green);
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(bg.jpg) no-repeat;
+    background: url("bg.JPG") no-repeat;
     background-position: center;
     background-size: cover;
     height: 100%;
